@@ -1,0 +1,2 @@
+# MyCloudflareWorkerScripts
+#I use these Cloudflare Worker Scripts in full form to enhance my website experience for all my projects & for various churches & schools who allow me to help them out with projects. Now how about you? What worker scripts are you using. This is part of the mega tweet thread for cloudflare worker scripts I started here. https://twitter.com/IanKoHoman/status/1175831830798524418
